@@ -4,8 +4,17 @@ One of the most important projects being undertaken to transform the way people 
 <b>Result:</b>
 The AI Fitness Trainer uses Machine Learning technologies, such as Angle Measurements and Convolutional Neural Network (CNN) models with a 97% accuracy rate to give correct advice to people looking to improve their physical fitness. Exercise regimens are customized to each person’s demands using this cutting-edge method, guaranteeing maximum efficacy and security. The AI fitness Trainer Project provide consumers with a customized, all-inclusive training experience. Through the application of these state-of-the-art technologies, our system is able to analyze user movements with exceptional accuracy and generate customized training recommendations. To ensure a demanding yet safe training routine, our AI Fitness Trainer precisely determines users’ physical capabilities and adjusts exercise difficulty levels accordingly
 ![Home (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/ffc27b36-ed63-4299-9f9d-a326dc75cec9)
+
 ![joining page (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/71738615-b99c-458c-8c91-5db30f782d86)
-![Exercise Output (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/0768d84e-8886-4cd7-808f-6d6a0d67afea)
-![Email OutPut (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/3d39fd09-7d0b-40ed-b35b-6163194bd7a2)
+
 ![home1 (2)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/ba5700b5-eb14-4976-90d6-16253e3de7a1)
+
+![Dificulty Level (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/bded1ced-9353-4b77-b07c-c76b71d83d23)
+
+![Audio feedback (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/8ae04a8c-8557-4e6d-9c33-ab3b20142937)
+
+![Exercise Output (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/0768d84e-8886-4cd7-808f-6d6a0d67afea)
+
+![Email OutPut (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/3d39fd09-7d0b-40ed-b35b-6163194bd7a2)
+
 
