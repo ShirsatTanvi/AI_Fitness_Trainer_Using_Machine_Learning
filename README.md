@@ -18,3 +18,10 @@ The AI Fitness Trainer uses Machine Learning technologies, such as Angle Measure
 ![Exercise Output (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/0768d84e-8886-4cd7-808f-6d6a0d67afea)<br>
 <b>Email Output</b><br>
 ![Email OutPut (1)](https://github.com/ShirsatTanvi/AI_Fitness_Trainer_Using_Machine_Learning/assets/108514788/3d39fd09-7d0b-40ed-b35b-6163194bd7a2)<br>
+
+
+<h1>Contact:</h1>
+Tanvi Prashant Shirsat.<br>
+shirsattanvi2201@gmail.com /
+tanvishirsat2201@gmail.com <br>
+9404109582
